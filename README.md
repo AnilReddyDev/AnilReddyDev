@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @AnilReddyDev.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning JavaScript.
+- 💻 I'm currently working on something cool🙂.
+- 🌱 I’m currently learning Web Development & DSA.
 - 💞️ I’m looking to collaborate on Front-end Web Projects.
-- 📫 How to reach me: Twitter-@i_AnilReddy & LinkedIn- https://www.linkedin.com/in/anil-reddy-513866227
+- 📫 How to reach me: LinkedIn- https://www.linkedin.com/in/anil-reddy-513866227
 - 👨‍💻 Experience with HTML, CSS, Python & JavaScript.
 
 <!---
