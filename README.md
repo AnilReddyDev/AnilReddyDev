@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on Front-end Web Projects.
-- 📫 How to reach me my twitter Id: @i_AnilReddy.
+- 📫 How to reach me: Twitter-@i_AnilReddy & LinkedIn- https://www.linkedin.com/in/anil-reddy-513866227
 - 👨‍💻 Experience with HTML, CSS, Python & JavaScript.
 
 <!---
