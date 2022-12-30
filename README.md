@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://linkedin.com/in/anil-reddy-513866227" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="i_anilreddy" /></a> </p>
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://anilrportfolio.web.app/](https://anilrportfolio.web.app/)
+- 👨‍💻 All of my projects are available at [www.anilreddy.ml](https://www.anilreddy.ml/)
 
 - 💬 Ask me about **Python,JavaScript**
 
