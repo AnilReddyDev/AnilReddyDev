@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anil Reddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="370" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilreddydev&label=Profile%20views&color=0e75b6&style=flat" alt="anilreddydev" /> </p>
 
