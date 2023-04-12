@@ -1,36 +1,42 @@
-<h1 align="center">Hi 👋, I'm Anil Reddy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="370" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<h1>Hi 👋 I'm KONYALA ANIL REDDY</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anilreddydev&label=Profile%20views&color=0e75b6&style=flat" alt="anilreddydev" /> </p>
+<h2>Web Developer</h2>
 
-<p align="left"> <a href="https://linkedin.com/in/anil-reddy-513866227" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="i_anilreddy" /></a> </p>
-- 🌱 I’m currently learning **React**
+I've been learning to code for one years...
 
-- 👨‍💻 All of my projects are available at [www.anilreddy.ml](https://www.anilreddy.ml/)
+*   🌍  I'm based in Hyderabad, India
+*   🖥️  See my portfolio at [anilreddy.ml](http://https://www.anilreddy.ml/)
+*   ✉️  You can contact me at [konyalaanilreddy00@gmail.com](mailto:konyalaanilreddy00@gmail.com)
+*   🚀  I'm currently working on [Mruspace.in](http://mruspace.in)
+*   🧠  I'm learning Django
+*   🤝  I'm open to collaborating on Web Dev
+*   ⚡  I code When I fell Bore
 
-- 💬 Ask me about **Python,JavaScript**
+<a href="https://www.github.com/AnilReddyDev" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/AnilReddyDev?logo=github&style=for-the-badge&color=f97316&labelColor=181824" /></a>
 
-- 📫 How to reach me **Message me on LinkedIn**
-
-- ⚡ Fun fact **I code When I feel bore.**
-
-<h3 align="left">Connect with me:</h3>
+### Skills 
 <p align="left">
-<a href="https://twitter.com/i_anilreddy" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/twitter.png" alt="i_anilreddy" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/anil-reddy-513866227" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/linkedin-circled.png" alt="anil-reddy-513866227" height="40" width="40" /></a>
-<a href="https://instagram.com/i_am_anilreddy" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/instagram-new.png" alt="i_am_anilreddy" height="40" width="40" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
+                    
+### Socials
+                  
+ <p align="left"> <a href="https://www.github.com/AnilReddyDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/i_am_anilreddy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anil-reddy-513866227" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/i_anilreddy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/c-programming.png" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/javascript.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/linux.png" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/mysql-logo.png" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/python.png" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/officel/512/react.png" alt="react" width="40" height="40"/> </a> </p>
+### Badges
 
-<h3 align="left">Learned From:</h3>
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-<img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
+<b>My GitHub Stats</b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilreddydev&show_icons=true&locale=en&layout=compact&theme=merko" alt="anilreddydev" /></p>
+<a href="http://www.github.com/AnilReddyDev"><img src="https://github-readme-stats.vercel.app/api?username=AnilReddyDev&show_icons=true&hide=contribs&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="AnilReddyDev's GitHub stats" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilreddydev&show_icons=true&locale=en&theme=merko" alt="anilreddydev" /></p>
-
+<a href="https://github.com/AnilReddyDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilReddyDev&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
