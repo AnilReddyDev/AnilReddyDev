@@ -12,8 +12,6 @@ I've been learning to code for one years...
 *   🤝  I'm open to collaborating on Web Dev
 *   ⚡  I code When I fell Bore
 
-<a href="https://www.github.com/AnilReddyDev" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/AnilReddyDev?logo=github&style=for-the-badge&color=f97316&labelColor=181824" /></a>
 
 ### Skills 
 <p align="left">
