@@ -5,7 +5,7 @@
 I've been learning to code for one years...
 
 *   🌍  I'm based in Hyderabad, India
-*   🖥️  See my portfolio at [anilreddy.ml](http://https://www.anilreddy.ml/)
+<!-- *   🖥️  See my portfolio at [anilreddy.ml](http://https://www.anilreddy.ml/) -->
 *   ✉️  You can contact me at [konyalaanilreddy00@gmail.com](mailto:konyalaanilreddy00@gmail.com)
 *   🚀  I'm currently working on [Mruspace.in](http://mruspace.in)
 *   🧠  I'm learning Django
