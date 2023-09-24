@@ -9,7 +9,7 @@ I've been learning to code for one years...
 *   ✉️  You can contact me at [konyalaanilreddy00@gmail.com](mailto:konyalaanilreddy00@gmail.com)
 *   🚀  I'm currently working on [Mruspace.in](http://mruspace.in)
 *   🤝  I'm open to collaborating on Web Dev
-*   ⚡  I code When I fell Bore
+*   ⚡  I code When I fell Bored
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilreddydev&label=Profile%20views&color=0e75b6&style=flat" alt="anilreddydev" /> </p>
 ### Skills 
