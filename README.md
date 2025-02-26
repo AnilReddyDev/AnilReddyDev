@@ -6,7 +6,7 @@
 - Completing B.Tech in CSE (AI & ML) – April 2025.  
 - Actively looking for **Internship / Full-time opportunities**.  
 - Passionate about building scalable web applications and exploring AI-driven solutions.  
-- Tech Stack: JavaScript, React, TailwindCSS, Node.js, Python.  
+- Tech Stack: JavaScript, React, TailwindCSS, Node.js, Java.  
 
 ### GitHub Stats  
 
