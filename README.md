@@ -1,18 +1,18 @@
-# Hey, I'm Konyala Anil Reddy  
-(You can call me Anil.)  
+### Konyala Anil Reddy  
+(You can call me Anil.🙂)  
 
-## About Me  
-- Based in Hyderabad, India  
-- Completing B.Tech in CSE (AI & ML) – April 2025  
-- Actively looking for **Internship / Full-time opportunities**  
-- Passionate about building scalable web applications and exploring AI-driven solutions  
-- Tech Stack: JavaScript, React, TailwindCSS, Node.js, Java  
+### About Me  
+- Based in Hyderabad, India.  
+- Completing B.Tech in CSE (AI & ML) – April 2025.  
+- Actively looking for **Internship / Full-time opportunities**.  
+- Passionate about building scalable web applications and exploring AI-driven solutions.  
+- Tech Stack: JavaScript, React, TailwindCSS, Node.js, Python.  
 
-## GitHub Stats  
+### GitHub Stats  
 
 ![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnilReddyDev&show_icons=true&hide_border=true&theme=default)  
 
-## Top Languages  
+### Top Languages  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnilReddyDev&layout=compact&hide_border=true&theme=default)  
 
