@@ -3,10 +3,10 @@
 
 ### About Me  
 - Based in Hyderabad, India.  
-- Completing B.Tech in CSE (AI & ML) – April 2025.  
+- Completed B.Tech in CSE (AI & ML) – May 2025.  
 - Actively looking for **Internship / Full-time opportunities**.  
 - Passionate about building scalable web applications and exploring AI-driven solutions.  
-- Tech Stack: JavaScript, React, TailwindCSS, Node.js, Java.  
+- Tech Stack: JavaScript, React, Tailwindcss, Node.js, Java.  
 
 ### GitHub Stats  
 
